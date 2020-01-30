@@ -1,0 +1,8 @@
+
+---
+galaxy_info:
+  author: myth
+  description: Ansible role to deploy traefik with docker
+  company: None
+  license: MIT
+  min_ansible_version: 2.2
